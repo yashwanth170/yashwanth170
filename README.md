@@ -28,7 +28,7 @@ I’m a dedicated **Software Developer** based in United States, with expertise 
 
 - Email: [yashwanthpokala@yahoo.com](mailto:yashwanthpokala@yahoo.com)
 - LinkedIn: [Yashwanth's LinkedIn](https://www.linkedin.com/in/yashwanth-yash-pokala-45696b167/)
-- GitHub: [@yashwanth47](https://github.com/yashwanth170)
+- GitHub: [@yashwanth170](https://github.com/yashwanth170)
 
 ---
 
