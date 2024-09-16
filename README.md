@@ -40,18 +40,6 @@ I’m a dedicated **Software Developer** based in United States, with expertise 
 
 ---
 
-### 💡 Projects
-
-- **Travel Website**  
-  _September 2023 - December 2023_  
-  Built a full-stack travel web application using **ReactJS**, **NodeJS**, **Express**, and **MongoDB**, with features like authentication and booking management.
-
-- **Advanced Big-Data App**  
-  _January 2024 - May 2024_  
-  Engineered a distributed indexing system using **Spring Boot**, **RabbitMQ**, **Elasticsearch**, and **Redis** to deliver low-latency search results.
-
----
-
 ### 📚 Currently Exploring
 
 - CUDA & AI projects
