@@ -20,7 +20,7 @@ I’m a dedicated **Software Developer** based in United States, with expertise 
 ### Projects
 #### ⚡Java projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yashwanth170&repo=Advanced-Big-Data-Indexing)](https://github.com/anuraghazra/github-readme-stats)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yashwanth170&repo=mac-mini-remote)](https://github.com/anuraghazra/github-readme-stats) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yashwanth170&repo=Medical-Resource-Finder-Java-)](https://github.com/anuraghazra/github-readme-stats) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yashwanth170&repo=Medical-Resource-Finder-Java-)](https://github.com/anuraghazra/github-readme-stats) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yashwanth170&repo=Advanced-Big-Data-Indexing)](https://github.com/yashwanth170/Advanced-Big-Data-Indexing)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yashwanth170&repo=mac-mini-remote)](https://github.com/yashwanth170/mac-mini-remote) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yashwanth170&repo=Medical-Resource-Finder-Java-)](https://github.com/yashwanth170/Medical-Resource-Finder-Java-) 
 
 #### 🚀 MERN Stack/Frontend
 
