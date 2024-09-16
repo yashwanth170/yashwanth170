@@ -24,16 +24,16 @@ I’m a dedicated **Software Developer** based in United States, with expertise 
 
 #### 🚀 MERN Stack/Frontend
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yashwanth170&repo=Traveler--React-JS-Node-JS-)](https://github.com/anuraghazra/github-readme-stats) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yashwanth170&repo=mac-remote-react)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yashwanth170&repo=Traveler--React-JS-Node-JS-)](https://github.com/yashwanth170/Traveler--React-JS-Node-JS-) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yashwanth170&repo=mac-remote-react)](https://github.com/yashwanth170/mac-remote-react)
 
 #### 🔧 DevOps & Cloud Engineering
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yashwanth170&repo=ami-jenkins)](https://github.com/anuraghazra/github-readme-stats) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yashwanth170&repo=infra-jenkins)](https://github.com/anuraghazra/github-readme-stats) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yashwanth170&repo=webapp-cve-processor)](https://github.com/anuraghazra/github-readme-stats) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yashwanth170&repo=ami-jenkins)](https://github.com/yashwanth170/ami-jenkins) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yashwanth170&repo=infra-jenkins)](https://github.com/yashwanth170/infra-jenkins) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yashwanth170&repo=webapp-cve-processor)](https://github.com/yashwanth170/webapp-cve-processor) 
 
 #### 🤖 Machine Learning & Python Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yashwanth170&repo=Uber-Lyft-Cab-price-Prediction-using-ML)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yashwanth170&repo=Uber-Lyft-Cab-price-Prediction-using-ML)](https://github.com/yashwanth170/Uber-Lyft-Cab-price-Prediction-using-ML)
 
-
+---
 
 ### 📚 Currently Exploring
 
