@@ -3,7 +3,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=yashwanth170)](https://git.io/streak-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yashwanth170)](https://github.com/anuraghazra/github-readme-stats)
 # Hi, I'm Yashwanth 👋
 
 I’m a dedicated **Software Developer** based in United States, with expertise in building scalable, high-performance applications. I have a Master of Science in Information Systems from Northeastern University and over **3 years of experience** working with technologies like **Java/Spring Boot**, **ReactJS/Angular**, and **cloud-native architectures**. I thrive in collaborative environments and enjoy contributing to open-source projects.
@@ -19,9 +18,20 @@ I’m a dedicated **Software Developer** based in United States, with expertise 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 
 ### Projects
-####  🚀Java projects
+#### ⚡Java projects
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yashwanth170&repo=Advanced-Big-Data-Indexing)](https://github.com/anuraghazra/github-readme-stats)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yashwanth170&repo=mac-mini-remote)](https://github.com/anuraghazra/github-readme-stats) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yashwanth170&repo=Medical-Resource-Finder-Java-)](https://github.com/anuraghazra/github-readme-stats) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yashwanth170&repo=Medical-Resource-Finder-Java-)](https://github.com/anuraghazra/github-readme-stats) 
+
+#### 🚀 MERN Stack/Frontend
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yashwanth170&repo=Traveler--React-JS-Node-JS-)](https://github.com/anuraghazra/github-readme-stats) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yashwanth170&repo=mac-remote-react)](https://github.com/anuraghazra/github-readme-stats)
+
+#### 🔧 DevOps & Cloud Engineering
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yashwanth170&repo=ami-jenkins)](https://github.com/anuraghazra/github-readme-stats) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yashwanth170&repo=infra-jenkins)](https://github.com/anuraghazra/github-readme-stats) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yashwanth170&repo=webapp-cve-processor)](https://github.com/anuraghazra/github-readme-stats) 
+
+#### 🤖 Machine Learning & Python Projects
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yashwanth170&repo=Uber-Lyft-Cab-price-Prediction-using-ML)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
