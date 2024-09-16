@@ -26,16 +26,13 @@ I’m a dedicated **Software Developer** based in United States, with expertise 
   _August 2024 - Present_  
   Contributing to the HGN App by resolving bugs, adding features, and managing pull requests under tight deadlines.
 
-- **Software Engineer – PTC (Onshape)**  
-  _June 2023 - August 2023_  
+- **Software Engineer – PTC (Onshape)**    
   Reduced 3D editing time by 25% and increased user engagement by 15% with features built using **Spring Boot** and **Angular**.
 
-- **Software Engineer – Infosys**  
-  _January 2022 - April 2022_  
+- **Software Engineer – Infosys**    
   Led an Agile team, reducing project timeline by 25% while transitioning a dashboard to a Single Page Application using the **MERN** stack.
 
-- **Software Developer – VCarve Inc**  
-  _February 2019 - January 2022_  
+- **Software Developer – VCarve Inc**    
   Developed a video streaming platform and cut operational expenses by 20% through **Docker-based CI/CD pipelines**.
 
 ---
@@ -50,8 +47,8 @@ I’m a dedicated **Software Developer** based in United States, with expertise 
 ### 📫 Contact Me
 
 - Email: [yashwanthpokala@yahoo.com](mailto:yashwanthpokala@yahoo.com)
-- LinkedIn: [Yashwanth's LinkedIn](https://linkedin.com/in/yashwanth)
-- GitHub: [@yashwanth47](https://github.com/yashwanth47)
+- LinkedIn: [Yashwanth's LinkedIn](https://www.linkedin.com/in/yashwanth-yash-pokala-45696b167/)
+- GitHub: [@yashwanth47](https://github.com/yashwanth170)
 
 ---
 
