@@ -1,8 +1,6 @@
 ## Hi there 👋
 ![](https://komarev.com/ghpvc/?username=yashwanth170)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=yashwanth170)](https://git.io/streak-stats)
-
 # Hi, I'm Yashwanth 👋
 
 I’m a dedicated **Software Developer** based in United States, with expertise in building scalable, high-performance applications. I have a Master of Science in Information Systems from Northeastern University and over **3 years of experience** working with technologies like **Java/Spring Boot**, **ReactJS/Angular**, and **cloud-native architectures**. I thrive in collaborative environments and enjoy contributing to open-source projects.
